@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.5dc49074.chunk.css",
-    "main.js": "/portfolio/static/js/main.5ca2f2d2.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.5ca2f2d2.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.8be37756.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.8be37756.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.ee51ae05.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.ee51ae05.js.map",
     "static/css/2.ba69f5a0.chunk.css": "/portfolio/static/css/2.ba69f5a0.chunk.css",
@@ -21,9 +21,10 @@
     "static/media/Illuminator.f7b66457.png": "/portfolio/static/media/Illuminator.f7b66457.png",
     "static/media/MapEditor_1.cac1e20f.png": "/portfolio/static/media/MapEditor_1.cac1e20f.png",
     "static/media/MapEditor_2.a8155fef.png": "/portfolio/static/media/MapEditor_2.a8155fef.png",
+    "static/media/NotesEditor.1094aabc.mp4": "/portfolio/static/media/NotesEditor.1094aabc.mp4",
     "static/media/NotesEditor.e052ce7a.png": "/portfolio/static/media/NotesEditor.e052ce7a.png",
     "static/media/NotesEditor_1.59be0491.png": "/portfolio/static/media/NotesEditor_1.59be0491.png",
-    "static/media/Soundrite.bdd73888.mp4": "/portfolio/static/media/Soundrite.bdd73888.mp4",
+    "static/media/Soundrite.12d8d301.mp4": "/portfolio/static/media/Soundrite.12d8d301.mp4",
     "static/media/Soundrite.d1fd1099.png": "/portfolio/static/media/Soundrite.d1fd1099.png",
     "static/media/Soundrite_1.424aca82.png": "/portfolio/static/media/Soundrite_1.424aca82.png",
     "static/media/Soundrite_2.cf61d05a.png": "/portfolio/static/media/Soundrite_2.cf61d05a.png",
@@ -47,6 +48,6 @@
     "static/css/2.ba69f5a0.chunk.css",
     "static/js/2.c872181b.chunk.js",
     "static/css/main.5dc49074.chunk.css",
-    "static/js/main.5ca2f2d2.chunk.js"
+    "static/js/main.8be37756.chunk.js"
   ]
 }
